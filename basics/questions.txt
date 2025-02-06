@@ -1,0 +1,4 @@
+== is
+types of operator 
+operators questions 
+types of object in pyton

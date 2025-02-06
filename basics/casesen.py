@@ -1,0 +1,2 @@
+name="Divyansh"
+print(Name)
