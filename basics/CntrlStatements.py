@@ -40,3 +40,15 @@ elif n>80:
     elif(n>=30 and n<40):
         print("Third Division")
 # if-elif-else
+n=float(input("Enter your Percentage"))
+if n>100:
+    print("Invalid Percentage")
+elif n>80:
+    if(n>=60):
+        print("First Division")    
+    elif(n>=40 and n<60):
+        print("Second Division")
+    elif(n>=30 and n<40):
+        print("Third Division")
+    else:
+        print("Fail")
