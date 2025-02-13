@@ -69,7 +69,7 @@ i=n
 while i > 0:
     print('*' * i)
     i -= 1
-i = 1
+i = 2
 while i <= n:
     print('*' * i)
     i += 1
@@ -78,7 +78,7 @@ i=0
 while i<=n:
     print(" "*(n-i)+"*"*i)
     i+=1
-i=n
+i=n-1
 while i>=0:
     print("*"*i)
     i-=1
@@ -87,7 +87,7 @@ i=0
 while i<=n:
     print("*"*i)
     i+=1
-i=n
+i=n-1
 while i>=0:
     print(" "*(n-i)+"*"*i)
     i-=1
@@ -101,3 +101,23 @@ i=n-1
 while i>=0:
     print(" "*(n-i)+" *"*i)
     i-=1
+# #
+print("11")
+i = n
+while i >= 1:#1
+    print(" " * (n - i) + "*" * i)
+    i -= 1
+i = 2
+while i <= n:
+    print(" " * (n - i) + "*" * i)
+    i += 1
+i = n
+print("12")
+i=n
+while i>=1:
+    print(" "*(n-i)+" *"*i)
+    i-=1
+i=2
+while i<=n:
+    print(" "*(n-i)+" *"*i)
+    i+=1
