@@ -29,3 +29,8 @@
 # defination:- sort name of any python object like variable,function,class,method,et.
 # where to use aliasing
 # when we are using long object names that time we use aliasing 
+#  folder to make any module as a package we use init.py
+# folder with multiple such folder some with init and some without init we call them as library
+# collection of functions,variable in a single file is called a module
+# collection of modules with init.py is called a package
+# collection of packages is called a library
