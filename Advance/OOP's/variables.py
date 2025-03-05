@@ -4,8 +4,8 @@
 # -local
 class Students:
     def __init__(self, name, marks):
-        self.x = name
-        self.y = marks
+        self.x = name # instance variable
+        self.y = marks # instance variable
 obj=Students("Anushka",5)
 print(obj.x)
 print(obj.y)
