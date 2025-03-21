@@ -1,0 +1,26 @@
+higher order functions
+    =>map()
+    =>filter()
+    =>reduce()
+lambda
+decorator
+generator
+module,package,library
+oops
+    =>Class
+    =>Object
+    =>Data Abstraction
+    =>Encapsulation
+    =>Inheritance
+    =>Polymorphism
+    =>Constructor
+    =>self
+    =>variable
+        =>instance
+        =>static
+        =>local
+    =>method
+        =>instance
+        =>static
+        =>class
+        
